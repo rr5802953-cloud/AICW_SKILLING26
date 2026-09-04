@@ -1,2 +1,2 @@
 # AICW_SKILLING26
-15 day intense training from EF
+15 day intense training on AIML  from EF
